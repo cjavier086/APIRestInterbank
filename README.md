@@ -12,3 +12,8 @@ URL para los servicios
 1) loadCliente: http://localhost:8080/interbank/clientes (GET)
 2) findClienteByCodigo: http://localhost:8080/interbank/clientes/123 (GET)
 3) updateClient: http://localhost:8080/interbank/clientes/123 (POST)
+
+URL de imagen Docker
+
+https://hub.docker.com/r/cjavier256/testimage
+docker pull cjavier256/testimage
